@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yangkang5303
-- 👀 I’m interested in web services,container,conputer vision,general avation.
-- 🌱 I’m currently learning python,data sctructal.
+- 👀 I’m interested in Web Service,container,conputer vision,general avation.
+- 🌱 I’m currently learning Python,data structure.
 - 💞️ I’m looking to collaborate on fun sharing in Bangkok...
 - 📫 How to reach me yangkang5303@gmail.com
 
